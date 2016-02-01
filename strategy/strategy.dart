@@ -1,0 +1,10 @@
+class Duck {
+  
+  quack() {
+    
+  }
+  
+  swim() {
+    
+  }
+}

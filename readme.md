@@ -1,0 +1,1 @@
+Паттерны проектирования на языках Java, Python, Dart и Javascript
